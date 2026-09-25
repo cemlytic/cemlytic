@@ -12,9 +12,8 @@
 
 ### About Me
 
-I'm a mathematics student who fell in love with building things — I like turning an idea into something people can actually open and use, end to end: a backend that models the problem well, a mobile app on top of it that feels good to use, and the small unglamorous details in between that make a product trustworthy rather than just functional.
-
-I mostly work with React Native / Expo and Node.js / Express these days, and I'm gradually branching out into Python and event-driven backend patterns. I enjoy the process of learning by building — picking something a little too ambitious, and figuring it out along the way.
+I'm a mathematics student who enjoys building software and learning by doing. I like taking an idea from the initial concept to a working product — from designing the backend and modeling the problem to building mobile interfaces and handling the details that make an application reliable and pleasant to use.
+I mainly work with React Native / Expo and Node.js / Express, and I'm currently exploring event-driven backend architectures. I enjoy taking on projects that are slightly beyond what I already know and figuring things out along the way.
 
 ---
 
