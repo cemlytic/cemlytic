@@ -6,9 +6,6 @@
 
 📍 Antalya, Türkiye &nbsp;·&nbsp; 🟢 Open to new opportunities
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-cembaba07-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cembaba07/)
-[![GitHub](https://img.shields.io/badge/GitHub-cemlytic-181717?style=flat&logo=github&logoColor=white)](https://github.com/cemlytic)
-
 </div>
 
 ---
